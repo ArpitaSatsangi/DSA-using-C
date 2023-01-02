@@ -10,22 +10,22 @@ There are different branches containing code in c.
 * simple transpose of sparse matrix.
 
 ## array,stack,queue
-menu driven program using array
-stack
-stack using linked list
-queue
-circular queue
-double ended queue
-queue using linked list 
-infix to postfix
-infix to prefix
-postfix evaluation
-infix evaluation
+* menu driven program using array
+* stack
+* stack using linked list
+* queue
+* circular queue
+* double ended queue
+* queue using linked list 
+* infix to postfix
+* infix to prefix
+* postfix evaluation
+* infix evaluation
 
 ## linked list
-linked list
-circular linked list
-doubly linked list
-doubly circular linked list
-linked list using stack
-linked list using queue
+* linked list
+* circular linked list
+* doubly linked list
+* doubly circular linked list
+* linked list using stack
+* linked list using queue
