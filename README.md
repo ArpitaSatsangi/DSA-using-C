@@ -29,3 +29,19 @@ There are different branches containing code in c.
 * doubly circular linked list
 * linked list using stack
 * linked list using queue
+
+## tree,graph
+* bst
+* avl
+* graph using matrix
+* graph using list
+* graph : prims algo
+* graph : kruskal algo
+* graph : dijkstra algo
+
+## sorting
+* build min heap
+* 
+* merge sort
+* heap sort
+* quick sort
