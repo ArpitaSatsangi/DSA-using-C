@@ -1,5 +1,5 @@
 # DSA-usig-C
-There are different branches containing code in c.
+There are different folders containing code in c.
 
 ## polynomial,matrix
 * polyomial addition & multiplication using 1d array.
