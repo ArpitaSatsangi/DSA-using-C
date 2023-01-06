@@ -32,6 +32,7 @@ There are different branches containing code in c.
 
 ## tree,graph
 * bst
+* create tree using inorder and preorder
 * avl
 * graph using matrix
 * graph using list
@@ -41,7 +42,8 @@ There are different branches containing code in c.
 
 ## sorting
 * build min heap
-* 
+* min heap
 * merge sort
+* merge sort using linked list
 * heap sort
 * quick sort
