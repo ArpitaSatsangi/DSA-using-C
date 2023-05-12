@@ -1,7 +1,8 @@
 # DSA-usig-C
+
 There are different folders containing code in c.
 
-## polynomial,matrix
+## polynomial, matrix
 * polyomial addition & multiplication using 1d array.
 * sparse polyomial addition & multiplication using 2d array. 
 * polyomial addition & multiplication using linked list. sparse matrix addition. 
@@ -9,7 +10,7 @@ There are different folders containing code in c.
 * convert sparse matrix to triplet form, convert triplet form to sparse matrix.
 * simple transpose of sparse matrix.
 
-## array,stack,queue
+## array, stack, queue
 * menu driven program using array
 * stack
 * stack using linked list
@@ -30,7 +31,7 @@ There are different folders containing code in c.
 * linked list using stack
 * linked list using queue
 
-## tree,graph
+## tree, graph
 * bst
 * create tree using inorder and preorder
 * avl
