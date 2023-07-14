@@ -1,6 +1,6 @@
 # DSA-usig-C
 
-There are different folders containing code in c.
+C is a POP (Procedure Oriented Programming).
 
 ## polynomial, matrix
 * polyomial addition & multiplication using 1d array.
